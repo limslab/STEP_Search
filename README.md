@@ -1,6 +1,6 @@
 # STEP_Search (v1)
 
-### STEP_Search is a set of data processing tools for untargeted extracting stereoisomeric and other isomeric data from proteomics database searching output files, which is developed by The Gongyu Li Research Group @ Nankai University, through collaboration with Dr. Haohao Fu @ Nankai University
+### STEP_Search is a set of data processing tools for untargeted extracting stereoisomeric and other isomeric data from proteomics database searching output files, which is developed by LimsLab @ Nankai University (The Gongyu Li Research Group), through collaboration with Dr. Haohao Fu @ Nankai University
 
 ### Code Availability. All code used in this study is available on GitHub (https://github.com/limslab/STEP_Search.git). The repository contains Python scripts for data processing and analysis. The code was developed using Python 3.10, with key dependencies listed in the requirements.txt file. A comprehensive README.md provides step-by-step instructions for reproducing our analyses. The raw data processed by this code is available from both the Supporting Information and the GitHub repository. For any questions regarding the code, please contact Prof. Dr. Gongyu Li (ligongyu@nankai.edu.cn). 
 
